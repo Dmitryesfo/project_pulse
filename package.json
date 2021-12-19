@@ -26,6 +26,7 @@
     "gulp-sass": "^5.0.0",
     "sass": "^1.44.0"
   },
-  "dependencies": {},
-  "description": ""
+  "dependencies": {
+    "watchpack": "^2.3.1"
+  }
 }
